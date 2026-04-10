@@ -1,7 +1,6 @@
 [![Scnsh's GitHub stats](https://github-readme-stats.scnsh.vercel.app/api?username=scnsh&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.scnsh.vercel.app/api/top-langs/?username=scnsh&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+![Language Stats](language-stats.svg)
 
 <!--
 **scnsh/scnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
