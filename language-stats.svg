@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+  <rect x="0" y="0" width="400" height="400" rx="8" ry="8" fill="#f6f8fa" stroke="#e1e4e8" stroke-width="1"/>
+  <text x="20" y="24" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#24292e">Language Stats</text>
+  <!-- C# -->
+  <rect x="20" y="36" width="12" height="12" rx="2" ry="2" fill="#178600"/>
+  <text x="38" y="47" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">C#</text>
+  <text x="380" y="47" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">73.2%</text>
+  <rect x="20" y="53" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="53" width="263.6052323987891" height="5" rx="2" ry="2" fill="#178600"/>
+  <!-- C++ -->
+  <rect x="20" y="68" width="12" height="12" rx="2" ry="2" fill="#f34b7d"/>
+  <text x="38" y="79" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">C++</text>
+  <text x="380" y="79" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">8.3%</text>
+  <rect x="20" y="85" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="85" width="29.812579044594365" height="5" rx="2" ry="2" fill="#f34b7d"/>
+  <!-- Rust -->
+  <rect x="20" y="100" width="12" height="12" rx="2" ry="2" fill="#dea584"/>
+  <text x="38" y="111" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">Rust</text>
+  <text x="380" y="111" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">6.1%</text>
+  <rect x="20" y="117" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="117" width="21.993036086737963" height="5" rx="2" ry="2" fill="#dea584"/>
+  <!-- Python -->
+  <rect x="20" y="132" width="12" height="12" rx="2" ry="2" fill="#3572A5"/>
+  <text x="38" y="143" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">Python</text>
+  <text x="380" y="143" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">5.3%</text>
+  <rect x="20" y="149" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="149" width="19.001970199957473" height="5" rx="2" ry="2" fill="#3572A5"/>
+  <!-- ShaderLab -->
+  <rect x="20" y="164" width="12" height="12" rx="2" ry="2" fill="#222c37"/>
+  <text x="38" y="175" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">ShaderLab</text>
+  <text x="380" y="175" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">2.6%</text>
+  <rect x="20" y="181" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="181" width="9.39929180959732" height="5" rx="2" ry="2" fill="#222c37"/>
+  <!-- CMake -->
+  <rect x="20" y="196" width="12" height="12" rx="2" ry="2" fill="#DA3434"/>
+  <text x="38" y="207" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">CMake</text>
+  <text x="380" y="207" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">2.1%</text>
+  <rect x="20" y="213" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="213" width="7.5322354456548055" height="5" rx="2" ry="2" fill="#DA3434"/>
+  <!-- Objective-C -->
+  <rect x="20" y="228" width="12" height="12" rx="2" ry="2" fill="#438eff"/>
+  <text x="38" y="239" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">Objective-C</text>
+  <text x="380" y="239" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">1.0%</text>
+  <rect x="20" y="245" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="245" width="3.7379474277398748" height="5" rx="2" ry="2" fill="#438eff"/>
+  <!-- JavaScript -->
+  <rect x="20" y="260" width="12" height="12" rx="2" ry="2" fill="#f1e05a"/>
+  <text x="38" y="271" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">JavaScript</text>
+  <text x="380" y="271" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">0.4%</text>
+  <rect x="20" y="277" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="277" width="2" height="5" rx="2" ry="2" fill="#f1e05a"/>
+  <!-- HLSL -->
+  <rect x="20" y="292" width="12" height="12" rx="2" ry="2" fill="#aace60"/>
+  <text x="38" y="303" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">HLSL</text>
+  <text x="380" y="303" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">0.4%</text>
+  <rect x="20" y="309" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="309" width="2" height="5" rx="2" ry="2" fill="#aace60"/>
+  <!-- HTML -->
+  <rect x="20" y="324" width="12" height="12" rx="2" ry="2" fill="#e34c26"/>
+  <text x="38" y="335" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">HTML</text>
+  <text x="380" y="335" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">0.3%</text>
+  <rect x="20" y="341" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="341" width="2" height="5" rx="2" ry="2" fill="#e34c26"/>
+  <!-- Other -->
+  <rect x="20" y="356" width="12" height="12" rx="2" ry="2" fill="#ccc"/>
+  <text x="38" y="367" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#24292e">Other</text>
+  <text x="380" y="367" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#586069" text-anchor="end">0.3%</text>
+  <rect x="20" y="373" width="360" height="5" rx="2" ry="2" fill="#e1e4e8"/>
+  <rect x="20" y="373" width="2" height="5" rx="2" ry="2" fill="#ccc"/>
+</svg>
