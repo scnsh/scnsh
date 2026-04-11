@@ -1,5 +1,3 @@
-[![Scnsh's GitHub stats](https://github-readme-stats.scnsh.vercel.app/api?username=scnsh&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Language Stats](language-stats.svg)
 
 <!--
